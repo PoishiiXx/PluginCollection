@@ -1228,5 +1228,11 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+    },
+	{
+		"name": "CrackyHD"
+		"desc": "Ibims PoishiiXx"
+		"jarName": "CrackyHD.jar"
+		"configName": "CrackyHD"
+		
 ]
